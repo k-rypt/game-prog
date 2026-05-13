@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4544b5cd95341934f92cabdf30052ab1, type: 3}
+  m_Name: IntroDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - name: Eira
+    text: Mom?
+  - name: Mom
+    text: Eira, will you be able to send some for Eli?
+  - name: Eira
+    text: What? What happened?
+  - name: Mom
+    text: She collapsed at school and her teachers took her to the hospital. the
+      doctors saidd she's getting a bit better but her heart still has a long way
+      to go.
+  - name: Eira
+    text: What? Is she taking her meds?
+  - name: Mom
+    text: Yes. We see her everyday.
+  - name: Eira
+    text: Okay. I'll see if I have anything left
+  - name: Mom
+    text: Thank you.
+  - name: Mom
+    text: You're always working so hard. Make sure you get plenty of rest.
