@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4544b5cd95341934f92cabdf30052ab1, type: 3}
+  m_Name: WinDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - name: Eira
+    text: Hello, Mom?
+  - name: Mom
+    text: Yes, hon?
+  - name: Eira
+    text: I won, Mom...
+  - name: Eira
+    text: 'You don''t have to worry anymore. '
+  - name: Eira
+    text: Eli's bills are taken care of.
+  - name: Mom
+    text: What? What happened? I mean, that's good news but what happened?
+  - name: Eira
+    text: 'I''m going home, I''ll explain when I get there. '
+  - name: Mom
+    text: That's good to hear, be careful on the way
