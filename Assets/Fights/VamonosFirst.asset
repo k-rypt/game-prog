@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RhythmChart
   bpm: 250
   offset: 2
-  interruptTime: 1
+  interruptTime: 30
   autoGenerate: 1
   notes: []
