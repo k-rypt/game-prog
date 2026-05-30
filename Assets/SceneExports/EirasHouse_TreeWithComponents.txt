@@ -1,0 +1,59 @@
+EirasHouse
+Main Camera
+├── [Transform]
+├── [Camera]
+├── [AudioListener]
+└── [UniversalAdditionalCameraData]
+Spawn Point
+├── [Transform]
+└── [SpawnPoint]
+Exit
+├── [Transform]
+├── [Exit]
+└── [BoxCollider2D]
+Narrative Card
+├── [Transform]
+└── [NarrativeCard]
+Scene Dialogue Trigger
+├── [Transform]
+└── [SceneDialogueTrigger]
+Dialogue Manager
+├── [RectTransform]
+├── [Canvas]
+├── [CanvasScaler]
+├── [GraphicRaycaster]
+└── [DialogueManager]
+└── Dialogue Box
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+    ├── Dialogue Text
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [TextMeshProUGUI]
+    └── Character Name
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+EventSystem
+├── [Transform]
+├── [EventSystem]
+└── [InputSystemUIInputModule]
+Grid
+├── [Transform]
+└── [Grid]
+├── Foreground
+│   ├── [Transform]
+│   ├── [Tilemap]
+│   └── [TilemapRenderer]
+├── Foreground Collider
+│   ├── [Transform]
+│   ├── [Tilemap]
+│   ├── [TilemapRenderer]
+│   ├── [TilemapCollider2D]
+│   ├── [Rigidbody2D]
+│   └── [CompositeCollider2D]
+└── Background
+    ├── [Transform]
+    ├── [Tilemap]
+    └── [TilemapRenderer]

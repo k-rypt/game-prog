@@ -1,0 +1,142 @@
+DanceStudio
+Main Camera
+├── [Transform]
+├── [Camera]
+└── [AudioListener]
+Player
+├── [Transform]
+├── [SpriteRenderer]
+├── [Rigidbody2D]
+├── [PlayerMovement]
+└── [CapsuleCollider2D]
+Spawn Manager
+├── [Transform]
+├── [SpawnManager]
+└── [SceneTransition]
+└── Canvas
+    ├── [RectTransform]
+    ├── [Canvas]
+    ├── [CanvasScaler]
+    └── [GraphicRaycaster]
+    └── Fade Overlay
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+    └── Narrative Text
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+Exit
+├── [Transform]
+├── [Exit]
+├── [SpriteRenderer]
+└── [BoxCollider2D]
+Dialogue Manager
+├── [RectTransform]
+├── [Canvas]
+├── [CanvasScaler]
+├── [GraphicRaycaster]
+└── [DialogueManager]
+└── Dialogue Box
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+    ├── Dialogue
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [TextMeshProUGUI]
+│   └── TMP SubMeshUI [C&C Red Alert [LAN] Atlas Material + LiberationSans SDF Atlas]
+    ├── [RectTransform]
+    ├── [LayoutElement]
+    ├── [CanvasRenderer]
+    └── [TMP_SubMeshUI]
+    └── Character Name
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+EventSystem
+├── [Transform]
+├── [EventSystem]
+└── [InputSystemUIInputModule]
+Rhythm HUD
+├── [RectTransform]
+├── [Canvas]
+├── [CanvasScaler]
+├── [GraphicRaycaster]
+└── [RhythmHUD]
+├── Note Parent
+│   └── [RectTransform]
+├── Lane Container
+│   └── [RectTransform]
+│   ├── Lane D
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Lane_F
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Lane J
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Lane K
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit D
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit F
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit J
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit K
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Flash D
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Flash F
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Flash J
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   └── Flash K
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+└── Controls
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+Rhythm Manager
+├── [Transform]
+└── [RhythmManager]
+Quest Manager
+├── [Transform]
+└── [QuestManager]
+└── Canvas
+    ├── [RectTransform]
+    ├── [Canvas]
+    ├── [CanvasScaler]
+    └── [GraphicRaycaster]
+    └── Quest Text
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+    └── TMP SubMeshUI [C&C Red Alert [INET] Atlas Material + BoldPixels Atlas]
+    ├── [RectTransform]
+    ├── [LayoutElement]
+    ├── [CanvasRenderer]
+    └── [TMP_SubMeshUI]

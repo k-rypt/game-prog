@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4544b5cd95341934f92cabdf30052ab1, type: 3}
+  m_Name: MorningDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - name: Eli
+    text: 'Good morning, Ate. '
+  - name: Eli
+    text: Did I wake you up?
+  - name: Eira
+    text: Not at all, Bunso. How are you doing?
+  - name: Eli
+    text: 'I miss you, Ate. '
+  - name: Eira
+    text: Also, Mom has something to say.
+  - name: Eira
+    text: I miss you more. Please put mom on the phone.
+  - name: Mom
+    text: Eira...
+  - name: Eira
+    text: Why's your tone like that, mom? Did something happen again?
+  - name: Mom
+    text: The hospital bill just came and it's larger than last month because of
+      the latest incident.
+  - name: Eira
+    text: That's understandable, how much is it now?
+  - name: Mom
+    text: "\u20B195,000..."
+  - name: Eira
+    text: "\u20B195,000 just for this month?"
+  - name: Mom
+    text: Yes, your aunt is helping me out, she said she knows someone so this should
+      be easy but i'll give you an update.
+  - name: Eira
+    text: Okay, mom. Tell Eli we'll play soon.

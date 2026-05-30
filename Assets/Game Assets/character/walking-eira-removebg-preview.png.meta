@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 95753228d12847141a7043aeb5331ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 817888653716229365
+    second: walking-eira-removebg-preview_0
+  - first:
+      213: -5873715082438130452
+    second: walking-eira-removebg-preview_1
+  - first:
+      213: -4760676099278401051
+    second: walking-eira-removebg-preview_2
+  - first:
+      213: 5521575231917970504
+    second: walking-eira-removebg-preview_3
+  - first:
+      213: -4460678682998863009
+    second: walking-eira-removebg-preview_4
+  - first:
+      213: 3593854494969153341
+    second: walking-eira-removebg-preview_5
+  - first:
+      213: 2953105319683149632
+    second: walking-eira-removebg-preview_6
+  - first:
+      213: 3676674750310246192
+    second: walking-eira-removebg-preview_7
+  - first:
+      213: -212888472788735222
+    second: walking-eira-removebg-preview_8
+  - first:
+      213: 2779849450016628171
+    second: walking-eira-removebg-preview_9
+  - first:
+      213: -4923524265032451529
+    second: walking-eira-removebg-preview_10
+  - first:
+      213: 5533893683008301246
+    second: walking-eira-removebg-preview_11
+  - first:
+      213: -3658857770804421814
+    second: walking-eira-removebg-preview_12
+  - first:
+      213: -5820305778192380322
+    second: walking-eira-removebg-preview_13
+  - first:
+      213: 5551161591130966819
+    second: walking-eira-removebg-preview_14
+  - first:
+      213: -2627025785700739239
+    second: walking-eira-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 387
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc049ea569b95b00800000000000000
+      internalID: 817888653716229365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 387
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4cb67b04f5c7ea0800000000000000
+      internalID: -5873715082438130452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 387
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e191d39f4eaeedb0800000000000000
+      internalID: -4760676099278401051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 387
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d01b3b6390ac40800000000000000
+      internalID: 5521575231917970504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 276
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b02ba1f5c7812c0800000000000000
+      internalID: -4460678682998863009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 276
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c3134f9fefd130800000000000000
+      internalID: 3593854494969153341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 276
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fc70c54a98bf820800000000000000
+      internalID: 2953105319683149632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 276
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e3ee943c260330800000000000000
+      internalID: 3676674750310246192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 163
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0be6aadf0bab0df0800000000000000
+      internalID: -212888472788735222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 163
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd5e45b852049620800000000000000
+      internalID: 2779849450016628171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 163
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a79b354c02cabb0800000000000000
+      internalID: -4923524265032451529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 163
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ec702cf65ccc40800000000000000
+      internalID: 5533893683008301246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b568f2e30293dc0800000000000000
+      internalID: -3658857770804421814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 51
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e80b66bbe1a3fa0800000000000000
+      internalID: -5820305778192380322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 51
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b472a4e00b90d40800000000000000
+      internalID: 5551161591130966819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-eira-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 51
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957148b67fdea8bd0800000000000000
+      internalID: -2627025785700739239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walking-eira-removebg-preview_0: 817888653716229365
+      walking-eira-removebg-preview_1: -5873715082438130452
+      walking-eira-removebg-preview_10: -4923524265032451529
+      walking-eira-removebg-preview_11: 5533893683008301246
+      walking-eira-removebg-preview_12: -3658857770804421814
+      walking-eira-removebg-preview_13: -5820305778192380322
+      walking-eira-removebg-preview_14: 5551161591130966819
+      walking-eira-removebg-preview_15: -2627025785700739239
+      walking-eira-removebg-preview_2: -4760676099278401051
+      walking-eira-removebg-preview_3: 5521575231917970504
+      walking-eira-removebg-preview_4: -4460678682998863009
+      walking-eira-removebg-preview_5: 3593854494969153341
+      walking-eira-removebg-preview_6: 2953105319683149632
+      walking-eira-removebg-preview_7: 3676674750310246192
+      walking-eira-removebg-preview_8: -212888472788735222
+      walking-eira-removebg-preview_9: 2779849450016628171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

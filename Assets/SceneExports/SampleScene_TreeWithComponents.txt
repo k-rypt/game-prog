@@ -1,0 +1,115 @@
+SampleScene
+Main Camera
+├── [Transform]
+├── [Camera]
+├── [AudioListener]
+├── [UniversalAdditionalCameraData]
+└── [CinemachineBrain]
+Cinemachine Camera
+├── [Transform]
+└── [CinemachineVirtualCamera]
+└── cm
+    ├── [Transform]
+    ├── [CinemachinePipeline]
+    └── [CinemachineFramingTransposer]
+Global Light 2D
+├── [Transform]
+└── [Light2D]
+Dialogue Manager
+├── [RectTransform]
+├── [Canvas]
+├── [CanvasScaler]
+├── [GraphicRaycaster]
+└── [DialogueManager]
+├── Inspect Panel
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Poster
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   └── Dim Background
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+└── Dialogue Box
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+    ├── Dialogue
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [TextMeshProUGUI]
+    └── Character Name
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+EventSystem
+├── [Transform]
+├── [EventSystem]
+└── [InputSystemUIInputModule]
+Grid
+├── [Transform]
+└── [Grid]
+├── Foreground
+│   ├── [Transform]
+│   ├── [Tilemap]
+│   └── [TilemapRenderer]
+└── Foreground Collider
+    ├── [Transform]
+    ├── [Tilemap]
+    ├── [TilemapRenderer]
+    ├── [Rigidbody2D]
+    ├── [TilemapCollider2D]
+    └── [CompositeCollider2D]
+Paper Interactable
+├── [Transform]
+├── [BoxCollider2D]
+└── [Interactable]
+└── Instructions
+    ├── [RectTransform]
+    ├── [MeshRenderer]
+    ├── [TextMeshPro]
+    └── [MeshFilter]
+======Spawn======
+└── [Transform]
+To EirasHouse
+├── [Transform]
+├── [BoxCollider2D]
+└── [Exit]
+└── Instructions
+    ├── [RectTransform]
+    ├── [MeshRenderer]
+    ├── [TextMeshPro]
+    └── [MeshFilter]
+To Vamonos
+├── [Transform]
+├── [BoxCollider2D]
+└── [Exit]
+└── Instructions
+    ├── [RectTransform]
+    ├── [MeshRenderer]
+    ├── [TextMeshPro]
+    └── [MeshFilter]
+To End
+├── [Transform]
+├── [BoxCollider2D]
+└── [Interactable]
+├── Instructions
+│   ├── [RectTransform]
+│   ├── [MeshRenderer]
+│   ├── [TextMeshPro]
+│   └── [MeshFilter]
+└── Narrative Card
+    ├── [Transform]
+    └── [NarrativeCard]
+Spawn Point EirasHouse
+├── [Transform]
+└── [SpawnPoint]
+Spawn Point Vamonos
+├── [Transform]
+└── [SpawnPoint]
+Spawn Point DanceStudio
+├── [Transform]
+└── [SpawnPoint]

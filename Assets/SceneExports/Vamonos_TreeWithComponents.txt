@@ -1,0 +1,127 @@
+Vamonos
+Main Camera
+├── [Transform]
+├── [Camera]
+├── [AudioListener]
+└── [UniversalAdditionalCameraData]
+Spawn Point
+├── [Transform]
+├── [BoxCollider2D]
+└── [SpawnPoint]
+Exit
+├── [Transform]
+├── [Exit]
+└── [BoxCollider2D]
+Grid
+├── [Transform]
+└── [Grid]
+└── Markers
+    ├── [Transform]
+    ├── [Tilemap]
+    └── [TilemapRenderer]
+Dialogue Manager
+├── [RectTransform]
+├── [Canvas]
+├── [CanvasScaler]
+├── [GraphicRaycaster]
+└── [DialogueManager]
+└── Dialogue Box
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+    ├── Dialogue
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [TextMeshProUGUI]
+    └── Character Name
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+EventSystem
+├── [Transform]
+├── [EventSystem]
+└── [StandaloneInputModule]
+Rhythm HUD
+├── [RectTransform]
+├── [Canvas]
+├── [CanvasScaler]
+├── [GraphicRaycaster]
+└── [RhythmHUD]
+├── Note Parent
+│   └── [RectTransform]
+├── Lane Container
+│   └── [RectTransform]
+│   ├── Lane D
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Lane_F
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Lane J
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Lane K
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit D
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit F
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit J
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Hit K
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Flash D
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Flash F
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   ├── Flash J
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   └── [Image]
+│   └── Flash K
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [Image]
+└── Controls
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    └── [TextMeshProUGUI]
+Rhythm Manager
+├── [Transform]
+└── [RhythmManager]
+Fight Trigger
+├── [Transform]
+├── [BoxCollider2D]
+└── [FightTrigger]
+└── Confirm
+    ├── [RectTransform]
+    ├── [Canvas]
+    ├── [CanvasScaler]
+    └── [GraphicRaycaster]
+    ├── Yes Button
+│   ├── [RectTransform]
+│   ├── [CanvasRenderer]
+│   ├── [Image]
+│   └── [Button]
+    └── No Button
+    ├── [RectTransform]
+    ├── [CanvasRenderer]
+    ├── [Image]
+    └── [Button]
